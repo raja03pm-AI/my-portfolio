@@ -1,4 +1,4 @@
-# My-own-web
+# My-Portfolio_
 
 Hi! I'm Maharaja, an AI and Data Science student who enjoys learning new technologies and building useful projects.
 
